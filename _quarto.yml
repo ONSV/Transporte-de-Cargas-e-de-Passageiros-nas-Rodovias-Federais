@@ -22,7 +22,7 @@ book:
     - associacao.qmd
     - conclusao.qmd
   twitter-card: true
-  repo-url: https://github.com/arthurnoguti/Analise_PRF_quarto
+  repo-url: https://github.com/ONSV/Transporte-de-Cargas-e-de-Passageiros-nas-Rodovias-Federais
   language: pt
 
 # csl: associacao-brasileira-de-normas-tecnicas.csl
